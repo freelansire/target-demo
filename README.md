@@ -19,6 +19,7 @@ You will also see any lint errors in the console.
 ## The project
 Only the client using react was used.
 I used Heroku to fetch data and make CRUD operations work.
+-Mock Todo-List data stays at Heroku
 
 Heroku It's a cloud-based, scalable server solution that allows you
 to easily manage the deployment of your applications. 
