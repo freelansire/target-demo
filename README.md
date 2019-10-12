@@ -24,3 +24,5 @@ I used Heroku to fetch data and make CRUD operations work.
 Heroku It's a cloud-based, scalable server solution that allows you
 to easily manage the deployment of your applications. 
 
+## Testing
+'npm test' as specified in package.json file.
